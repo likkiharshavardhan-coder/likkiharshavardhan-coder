@@ -99,16 +99,6 @@ joined_df.show()
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likkiharshavardhan-coder&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=likkiharshavardhan-coder&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=likkiharshavardhan-coder&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/likki-harsha-vardhan-b4a583252](https://www.linkedin.com/in/likki-harsha-vardhan-b4a583252)
